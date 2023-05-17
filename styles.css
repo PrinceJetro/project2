@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+
+.container-fluid{
+    color: navy;
+}
+@media only screen and (min-width: 600px) {
+    .follow{
+        float:left  
+  }
+}
